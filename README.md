@@ -6,5 +6,5 @@
 - Type "npm start" to run.
 
 =======================================
-> Link to test: [http://hoangnlm.herokuapp.com/](http://hoangnlm.herokuapp.com/){:target="_blank"}
+> Link to test: <a href="http://hoangnlm.herokuapp.com" target="_blank">http://hoangnlm.herokuapp.com</a>
 =======================================
