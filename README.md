@@ -2,6 +2,7 @@
 - Clone this project to your local machine.
 - Open terminal.
 - CD to folder project (Ex: "~/KanbanApp").
+- Type "npm install" to install node packages.
 - Type "npm start" to run.
 
 =======================================
