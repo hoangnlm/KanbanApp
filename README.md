@@ -4,6 +4,6 @@
 - CD to folder project (Ex: "~/KanbanApp").
 - Type "npm install" to install node packages.
 - Type "npm start" to run.
+
 =======================================
 > Link to test: http://hoangnlm.herokuapp.com
-=======================================
