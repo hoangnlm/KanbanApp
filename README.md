@@ -5,6 +5,5 @@
 - Type "npm install" to install node packages.
 - Type "npm start" to run.
 
-=======================================
-> Link to test: <a href="http://hoangnlm.herokuapp.com" target="_blank">http://hoangnlm.herokuapp.com</a>
+> Link to test: [http://hoangnlm.herokuapp.com](http://hoangnlm.herokuapp.com){.target-blank}
 =======================================
